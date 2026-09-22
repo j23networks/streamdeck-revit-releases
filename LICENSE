@@ -1,0 +1,44 @@
+Copyright (c) 2026 J23 Software. All rights reserved.
+
+PROPRIETARY SOFTWARE
+
+Revit Bridge (the "Software") is the proprietary property of J23 Software. This
+repository distributes compiled builds for evaluation. The source code is not
+published, and nothing here places the Software in the public domain or under an
+open source license.
+
+LIMITED EVALUATION PERMISSION
+
+J23 Software grants each person it invites to test the Software a personal,
+non-exclusive, non-transferable, revocable permission to download and install
+the provided builds and to use them for evaluation. That permission ends when
+J23 Software withdraws it or the evaluation concludes.
+
+RESTRICTIONS
+
+Except as permitted above, no person may:
+  - redistribute, publish, sell, rent, sublicense, or otherwise transfer the
+    Software or any part of it;
+  - reverse engineer, decompile, or disassemble the Software, except to the
+    extent that applicable law expressly permits despite this restriction;
+  - modify the Software or create derivative works from it; or
+  - remove or alter any copyright, trademark, or other proprietary notice.
+
+No other license, right, or interest is granted, whether express, implied, by
+estoppel, or otherwise.
+
+TRADEMARKS
+
+Autodesk and Revit are trademarks of Autodesk, Inc. Elgato and Stream Deck are
+trademarks of Corsair Memory, Inc. The Software is not affiliated with, endorsed
+by, or sponsored by either company.
+
+NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THESE ARE PRE-RELEASE ALPHA
+BUILDS AND MAY BE INCOMPLETE OR UNSTABLE. IN NO EVENT SHALL J23 SOFTWARE BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR ITS USE, INCLUDING ANY LOSS OF OR DAMAGE TO MODEL OR PROJECT DATA.
