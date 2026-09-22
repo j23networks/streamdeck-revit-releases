@@ -27,3 +27,6 @@ Questions, bugs, or feedback: **developer@j23labs.com**
 ---
 
 _This repository hosts distributable builds only. The source code is maintained privately._
+
+Copyright (c) 2026 J23 Software. All rights reserved. Revit Bridge is proprietary software,
+distributed here for evaluation by invited testers — see [LICENSE](LICENSE).
